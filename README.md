@@ -1,11 +1,8 @@
 ![logo](https://github.com/AnuragGupta1817/AnuragGupta1817/blob/10b52b9763bc95ea4fd02202b68c35fe0ea37146/poster.jpg)
-
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate frontend developer from India 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraggupta1817&label=Profile%20views&color=0e75b6&style=flat" alt="anuraggupta1817" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraggupta1817" alt="anuraggupta1817" /></a> </p>
 
 - 🌱 I’m currently learning **Java, React ...**
 
@@ -37,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraggupta1817&" alt="anuraggupta1817" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraggupta1817&" alt="anuraggupta1817" /></p>
