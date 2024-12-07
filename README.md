@@ -1,6 +1,9 @@
 ![logo](https://github.com/AnuragGupta1817/AnuragGupta1817/blob/10b52b9763bc95ea4fd02202b68c35fe0ea37146/poster.jpg)
+
 <h1 align="center">Hi 👋, I'm Anurag Gupta</h1>
 <h3 align="center">A passionate frontend developer from India 😊</h3>
+
+<img align="right" alt="coding" src="person-working-collaboratively-online.svg" width="300px" style="border-radius: 10;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraggupta1817&label=Profile%20views&color=0e75b6&style=flat" alt="anuraggupta1817" /> </p>
 
