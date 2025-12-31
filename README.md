@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraggupta181&label=Profile%20views&color=0e75b6&style=flat" alt="anuraggupta181" /> </p>
 
-- 🌱 I’m currently learning **Java, React ...**
+- 🌱 I’m currently learning **Core AI/Ml**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://anuraggupta181.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.anurag11.me/)
 
-- 💬 Ask me about **Java Script | C++ | Tailwind CSS | HTML | CSS**
+- 💬 Ask me about **AL/Ml Generative AI | MERN*
 
 - 📫 How to reach me **job4anurag11@gmail.com**
 
-- 📄 Know about my experiences [Resume(July_2024)](https://anuraggupta181.github.io/Portfolio/Resume(July%202024).pdf)
+- 📄 Know about my experiences [Resume(Dec 2025)](https://drive.google.com/file/d/1wMrsqGCcl7tYGDSu9netlHL_e_A1RLsp/view?usp=sharing)
 
 - ⚡ Fun fact **Learning📔 new things😊...**
 
