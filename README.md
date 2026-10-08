@@ -43,7 +43,7 @@
 | **Generative AI & RAG Platform** | FastAPI, LangChain, LangGraph, LangSmith, AWS | [Code](https://github.com/AnuragGupta181/ccc-ragbot) |
 | **Autonomous Multi-UAV Swarm System** | ROS 2 Humble, PX4 Autopilot, Gazebo SITL, SLAM | [Code](https://github.com/AnuragGupta181/drone-mine-detection) |
 | **Carbon Crunch Multi-Modal OCR Pipeline** | Python, FastAPI, Playwright, Qwen2.5-VL, LoRA | [Code](https://github.com/AnuragGupta181/ocr) |
-| **NextGen – Cloud Assessment Platform** | AWS ECS, Docker, MongoDB Replica Set, Redis, BullMQ | [Code](https://github.com/AnuragGupta181/Coding-Plateform) |
+| **NextGen – Cloud Assessment Platform** | AWS ECS, Docker, MongoDB Replica Set, Redis, BullMQ | [Code](https://github.com/AnuragGupta181/Coding-Plateform) • [Live Demo](https://coding-plateform-egyb.vercel.app/) |
 | **Pesticide Detection Agricultural Robot** | ESP32, ESP32-CAM, YOLOv12, OpenCV, L298N | [Code](https://github.com/AnuragGupta181/Pestiside-detection) |
 
 ---
