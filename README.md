@@ -263,10 +263,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnuragGupta181&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragGupta181&theme=tokyonight" alt="Profile details" />
 </p>
 
