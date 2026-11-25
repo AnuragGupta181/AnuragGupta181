@@ -217,16 +217,6 @@
   </tr>
 </table>
 
---- | :--- | :--- |
-| **FotoFix**: AI image processing | React, FastAPI, YOLO, OpenCV, Redis, AWS S3 | [Code](https://github.com/AnuragGupta181/phot-fix-ml-fast) • [Live](https://image-processing-tool-c7k8.vercel.app) |
-| **Generative AI & RAG platform** | FastAPI, LangChain, LangGraph, LangSmith, AWS | [Code](https://github.com/AnuragGupta181/ccc-ragbot) |
-| **NextGen**: cloud contest platform | AWS ECS, MongoDB, Redis, BullMQ, Judge0 | [Code](https://github.com/AnuragGupta181/Coding-Plateform) • [Live](https://coding-plateform-egyb.vercel.app/) |
-| **GitOps CI/CD pipeline** | Jenkins, Argo CD, Argo Rollouts, Trivy, SonarQube | [Code](https://github.com/AnuragGupta181/nextgen_cd) |
-| **Multi-UAV swarm** | ROS 2 Humble, PX4, Gazebo SITL, SLAM | [Code](https://github.com/AnuragGupta181/drone-mine-detection) |
-| **Multi-modal OCR pipeline** | Python, FastAPI, Qwen2.5-VL, LoRA, Playwright | [Code](https://github.com/AnuragGupta181/ocr) |
-| **TurtleBot3 navigation** | ROS 2, Nav2, AMCL, DWB | [Code](https://github.com/AnuragGupta181/turtlebot) |
-| **Pesticide detection robot** | ESP32-CAM, YOLOv12, OpenCV | [Code](https://github.com/AnuragGupta181/Pestiside-detection) |
-
 ---
 
 ## <img src="assets/icons/honors.png" width="28" height="28" align="absmiddle" alt="" /> Open source & honors
